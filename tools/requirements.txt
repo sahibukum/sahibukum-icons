@@ -1,0 +1,4 @@
+fonttools[woff]==4.*
+skia-pathops
+pillow
+brotli

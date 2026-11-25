@@ -1,0 +1,1278 @@
+{
+ "version": "1.0.0",
+ "attribution": "Icons by Sahibukum (sahibukum.com), CC BY 4.0",
+ "categories": [
+  {
+   "id": "prayer",
+   "title": "Prayer and the day"
+  },
+  {
+   "id": "faith",
+   "title": "Qur'an and faith"
+  },
+  {
+   "id": "calendar",
+   "title": "Calendar and time"
+  },
+  {
+   "id": "navigation",
+   "title": "Navigation"
+  },
+  {
+   "id": "actions",
+   "title": "Actions"
+  },
+  {
+   "id": "status",
+   "title": "Status"
+  },
+  {
+   "id": "media",
+   "title": "Audio and video"
+  },
+  {
+   "id": "text",
+   "title": "Text and documents"
+  },
+  {
+   "id": "devices",
+   "title": "Devices and connection"
+  },
+  {
+   "id": "money",
+   "title": "Money and things"
+  },
+  {
+   "id": "people",
+   "title": "People and hands"
+  }
+ ],
+ "mirrored": [
+  "back",
+  "forward",
+  "arrow_left",
+  "arrow_right",
+  "undo",
+  "redo",
+  "login",
+  "logout",
+  "list",
+  "checklist",
+  "playlist",
+  "note",
+  "external",
+  "route"
+ ],
+ "icons": {
+  "about": {
+   "title": "About",
+   "category": "status",
+   "tags": []
+  },
+  "adhan": {
+   "title": "Adhan",
+   "category": "prayer",
+   "tags": [
+    "azan",
+    "call",
+    "to",
+    "prayer",
+    "minaret"
+   ]
+  },
+  "alert": {
+   "title": "Alert",
+   "category": "status",
+   "tags": []
+  },
+  "arrow_down": {
+   "title": "Arrow down",
+   "category": "navigation",
+   "tags": []
+  },
+  "arrow_left": {
+   "title": "Arrow left",
+   "category": "navigation",
+   "tags": []
+  },
+  "arrow_right": {
+   "title": "Arrow right",
+   "category": "navigation",
+   "tags": []
+  },
+  "arrow_up": {
+   "title": "Arrow up",
+   "category": "navigation",
+   "tags": []
+  },
+  "arrow_up_right": {
+   "title": "Arrow up right",
+   "category": "navigation",
+   "tags": []
+  },
+  "asr": {
+   "title": "Asr",
+   "category": "prayer",
+   "tags": [
+    "afternoon"
+   ]
+  },
+  "back": {
+   "title": "Back",
+   "category": "navigation",
+   "tags": []
+  },
+  "bank": {
+   "title": "Bank",
+   "category": "money",
+   "tags": []
+  },
+  "bell": {
+   "title": "Bell",
+   "category": "status",
+   "tags": []
+  },
+  "bell_off": {
+   "title": "Bell off",
+   "category": "status",
+   "tags": []
+  },
+  "block": {
+   "title": "Block",
+   "category": "status",
+   "tags": []
+  },
+  "bluetooth": {
+   "title": "Bluetooth",
+   "category": "devices",
+   "tags": []
+  },
+  "bold": {
+   "title": "Bold",
+   "category": "text",
+   "tags": []
+  },
+  "bolt": {
+   "title": "Bolt",
+   "category": "devices",
+   "tags": []
+  },
+  "bolt_off": {
+   "title": "Bolt off",
+   "category": "devices",
+   "tags": []
+  },
+  "book": {
+   "title": "Book",
+   "category": "text",
+   "tags": []
+  },
+  "book_heart": {
+   "title": "Dua journal",
+   "category": "faith",
+   "tags": [
+    "dua",
+    "journal"
+   ]
+  },
+  "book_open": {
+   "title": "Open book",
+   "category": "faith",
+   "tags": []
+  },
+  "bookmark": {
+   "title": "Bookmark",
+   "category": "actions",
+   "tags": []
+  },
+  "bookmark_filled": {
+   "title": "Bookmark, filled",
+   "category": "actions",
+   "tags": []
+  },
+  "box": {
+   "title": "Box",
+   "category": "text",
+   "tags": []
+  },
+  "briefcase": {
+   "title": "Briefcase",
+   "category": "money",
+   "tags": []
+  },
+  "bug": {
+   "title": "Bug",
+   "category": "devices",
+   "tags": []
+  },
+  "building": {
+   "title": "Building",
+   "category": "money",
+   "tags": []
+  },
+  "calculator": {
+   "title": "Calculator",
+   "category": "money",
+   "tags": []
+  },
+  "calendar": {
+   "title": "Calendar",
+   "category": "calendar",
+   "tags": []
+  },
+  "calendar_check": {
+   "title": "Calendar check",
+   "category": "calendar",
+   "tags": []
+  },
+  "camera": {
+   "title": "Camera",
+   "category": "media",
+   "tags": []
+  },
+  "camera_off": {
+   "title": "Camera off",
+   "category": "media",
+   "tags": []
+  },
+  "cart": {
+   "title": "Cart",
+   "category": "money",
+   "tags": []
+  },
+  "cast": {
+   "title": "Cast",
+   "category": "devices",
+   "tags": []
+  },
+  "charity": {
+   "title": "Sadaqah",
+   "category": "faith",
+   "tags": [
+    "sadaqah",
+    "giving",
+    "zakat"
+   ]
+  },
+  "chart": {
+   "title": "Chart",
+   "category": "money",
+   "tags": []
+  },
+  "check": {
+   "title": "Check",
+   "category": "actions",
+   "tags": []
+  },
+  "check_circle": {
+   "title": "Check circle",
+   "category": "status",
+   "tags": []
+  },
+  "checkbox": {
+   "title": "Checkbox",
+   "category": "status",
+   "tags": []
+  },
+  "checklist": {
+   "title": "Checklist",
+   "category": "actions",
+   "tags": []
+  },
+  "circle": {
+   "title": "Circle",
+   "category": "status",
+   "tags": []
+  },
+  "clock": {
+   "title": "Clock",
+   "category": "calendar",
+   "tags": []
+  },
+  "close": {
+   "title": "Close",
+   "category": "actions",
+   "tags": []
+  },
+  "close_circle": {
+   "title": "Close circle",
+   "category": "status",
+   "tags": []
+  },
+  "clothing": {
+   "title": "Clothing",
+   "category": "money",
+   "tags": []
+  },
+  "cloud": {
+   "title": "Cloud",
+   "category": "devices",
+   "tags": []
+  },
+  "cloud_off": {
+   "title": "Cloud off",
+   "category": "devices",
+   "tags": []
+  },
+  "code": {
+   "title": "Code",
+   "category": "text",
+   "tags": []
+  },
+  "coins": {
+   "title": "Zakat, coins",
+   "category": "money",
+   "tags": [
+    "zakat",
+    "money"
+   ]
+  },
+  "collapse": {
+   "title": "Collapse",
+   "category": "navigation",
+   "tags": []
+  },
+  "copy": {
+   "title": "Copy",
+   "category": "actions",
+   "tags": []
+  },
+  "counter": {
+   "title": "Dhikr counter",
+   "category": "faith",
+   "tags": [
+    "tasbih",
+    "dhikr",
+    "tally"
+   ]
+  },
+  "crescent": {
+   "title": "Crescent",
+   "category": "faith",
+   "tags": [
+    "hilal",
+    "moon"
+   ]
+  },
+  "daily_reminder": {
+   "title": "The Daily Reminder",
+   "category": "devices",
+   "tags": [
+    "device",
+    "clock"
+   ]
+  },
+  "device_screen": {
+   "title": "Screen",
+   "category": "devices",
+   "tags": []
+  },
+  "dhuhr": {
+   "title": "Dhuhr",
+   "category": "prayer",
+   "tags": [
+    "zuhr",
+    "noon",
+    "midday"
+   ]
+  },
+  "document": {
+   "title": "Document",
+   "category": "text",
+   "tags": []
+  },
+  "done": {
+   "title": "Done",
+   "category": "status",
+   "tags": []
+  },
+  "down": {
+   "title": "Down",
+   "category": "navigation",
+   "tags": []
+  },
+  "download": {
+   "title": "Download",
+   "category": "actions",
+   "tags": []
+  },
+  "drag": {
+   "title": "Drag",
+   "category": "navigation",
+   "tags": []
+  },
+  "drop": {
+   "title": "Drop",
+   "category": "money",
+   "tags": []
+  },
+  "dua": {
+   "title": "Dua, hands raised",
+   "category": "faith",
+   "tags": [
+    "supplication",
+    "hands"
+   ]
+  },
+  "edit": {
+   "title": "Edit",
+   "category": "actions",
+   "tags": []
+  },
+  "error": {
+   "title": "Error",
+   "category": "status",
+   "tags": []
+  },
+  "expand": {
+   "title": "Expand",
+   "category": "navigation",
+   "tags": []
+  },
+  "external": {
+   "title": "External",
+   "category": "navigation",
+   "tags": []
+  },
+  "eye": {
+   "title": "Eye",
+   "category": "actions",
+   "tags": []
+  },
+  "eye_off": {
+   "title": "Eye off",
+   "category": "actions",
+   "tags": []
+  },
+  "fajr": {
+   "title": "Fajr",
+   "category": "prayer",
+   "tags": [
+    "dawn",
+    "subh",
+    "morning"
+   ]
+  },
+  "fast": {
+   "title": "Fasts to make up",
+   "category": "calendar",
+   "tags": [
+    "sawm",
+    "qada",
+    "ramadan"
+   ]
+  },
+  "filter": {
+   "title": "Filter",
+   "category": "navigation",
+   "tags": []
+  },
+  "fingerprint": {
+   "title": "Fingerprint",
+   "category": "actions",
+   "tags": []
+  },
+  "fitness": {
+   "title": "Fitness",
+   "category": "money",
+   "tags": []
+  },
+  "flag": {
+   "title": "Flag",
+   "category": "actions",
+   "tags": []
+  },
+  "flame": {
+   "title": "Flame",
+   "category": "money",
+   "tags": []
+  },
+  "folder": {
+   "title": "Folder",
+   "category": "text",
+   "tags": []
+  },
+  "food": {
+   "title": "Food",
+   "category": "money",
+   "tags": []
+  },
+  "forward": {
+   "title": "Forward",
+   "category": "navigation",
+   "tags": []
+  },
+  "game": {
+   "title": "Game",
+   "category": "money",
+   "tags": []
+  },
+  "grid": {
+   "title": "Grid",
+   "category": "navigation",
+   "tags": []
+  },
+  "halal_scan": {
+   "title": "Halal scan",
+   "category": "devices",
+   "tags": [
+    "barcode",
+    "ingredients",
+    "food"
+   ]
+  },
+  "hand": {
+   "title": "Hand",
+   "category": "people",
+   "tags": []
+  },
+  "heading_1": {
+   "title": "Heading 1",
+   "category": "text",
+   "tags": []
+  },
+  "heading_2": {
+   "title": "Heading 2",
+   "category": "text",
+   "tags": []
+  },
+  "heading_3": {
+   "title": "Heading 3",
+   "category": "text",
+   "tags": []
+  },
+  "headphones": {
+   "title": "Headphones",
+   "category": "media",
+   "tags": []
+  },
+  "heart": {
+   "title": "Heart",
+   "category": "actions",
+   "tags": []
+  },
+  "heart_filled": {
+   "title": "Heart, filled",
+   "category": "actions",
+   "tags": []
+  },
+  "help": {
+   "title": "Help",
+   "category": "status",
+   "tags": []
+  },
+  "hijri": {
+   "title": "Hijri calendar",
+   "category": "calendar",
+   "tags": [
+    "islamic",
+    "calendar",
+    "lunar"
+   ]
+  },
+  "history": {
+   "title": "History",
+   "category": "calendar",
+   "tags": []
+  },
+  "home": {
+   "title": "Home",
+   "category": "navigation",
+   "tags": []
+  },
+  "hourglass": {
+   "title": "Hourglass",
+   "category": "calendar",
+   "tags": []
+  },
+  "image": {
+   "title": "Image",
+   "category": "media",
+   "tags": []
+  },
+  "infinity": {
+   "title": "Infinity",
+   "category": "money",
+   "tags": []
+  },
+  "isha": {
+   "title": "Isha",
+   "category": "prayer",
+   "tags": [
+    "night"
+   ]
+  },
+  "italic": {
+   "title": "Italic",
+   "category": "text",
+   "tags": []
+  },
+  "key": {
+   "title": "Key",
+   "category": "actions",
+   "tags": []
+  },
+  "lamp": {
+   "title": "Lamp",
+   "category": "devices",
+   "tags": []
+  },
+  "language": {
+   "title": "Language",
+   "category": "text",
+   "tags": []
+  },
+  "lantern": {
+   "title": "Ramadan lantern",
+   "category": "faith",
+   "tags": [
+    "ramadan",
+    "fanous"
+   ]
+  },
+  "leaf": {
+   "title": "Leaf",
+   "category": "money",
+   "tags": []
+  },
+  "lightbulb": {
+   "title": "Lightbulb",
+   "category": "money",
+   "tags": []
+  },
+  "link": {
+   "title": "Link",
+   "category": "actions",
+   "tags": []
+  },
+  "link_off": {
+   "title": "Link off",
+   "category": "actions",
+   "tags": []
+  },
+  "list": {
+   "title": "List",
+   "category": "navigation",
+   "tags": []
+  },
+  "locate": {
+   "title": "Locate",
+   "category": "money",
+   "tags": []
+  },
+  "location": {
+   "title": "Location",
+   "category": "money",
+   "tags": []
+  },
+  "location_off": {
+   "title": "Location off",
+   "category": "money",
+   "tags": []
+  },
+  "lock": {
+   "title": "Lock",
+   "category": "actions",
+   "tags": []
+  },
+  "lock_open": {
+   "title": "Lock open",
+   "category": "actions",
+   "tags": []
+  },
+  "login": {
+   "title": "Login",
+   "category": "navigation",
+   "tags": []
+  },
+  "logout": {
+   "title": "Logout",
+   "category": "navigation",
+   "tags": []
+  },
+  "maghrib": {
+   "title": "Maghrib",
+   "category": "prayer",
+   "tags": [
+    "sunset",
+    "evening"
+   ]
+  },
+  "mail": {
+   "title": "Mail",
+   "category": "money",
+   "tags": []
+  },
+  "map": {
+   "title": "Map",
+   "category": "money",
+   "tags": []
+  },
+  "megaphone": {
+   "title": "Megaphone",
+   "category": "money",
+   "tags": []
+  },
+  "mic": {
+   "title": "Mic",
+   "category": "media",
+   "tags": []
+  },
+  "mic_off": {
+   "title": "Mic off",
+   "category": "media",
+   "tags": []
+  },
+  "mihrab": {
+   "title": "Mihrab",
+   "category": "prayer",
+   "tags": [
+    "niche",
+    "arch",
+    "prayer",
+    "direction"
+   ]
+  },
+  "mind": {
+   "title": "Memorise",
+   "category": "faith",
+   "tags": [
+    "hifz",
+    "memorise"
+   ]
+  },
+  "minus": {
+   "title": "Minus",
+   "category": "actions",
+   "tags": []
+  },
+  "minus_circle": {
+   "title": "Minus circle",
+   "category": "status",
+   "tags": []
+  },
+  "moon": {
+   "title": "Moon",
+   "category": "calendar",
+   "tags": []
+  },
+  "moon_full": {
+   "title": "Full moon",
+   "category": "calendar",
+   "tags": []
+  },
+  "moon_half": {
+   "title": "Half moon",
+   "category": "calendar",
+   "tags": []
+  },
+  "moon_new": {
+   "title": "New moon",
+   "category": "calendar",
+   "tags": []
+  },
+  "moon_waxing": {
+   "title": "Waxing moon",
+   "category": "calendar",
+   "tags": []
+  },
+  "more": {
+   "title": "More",
+   "category": "navigation",
+   "tags": []
+  },
+  "more_vertical": {
+   "title": "More (vertical)",
+   "category": "navigation",
+   "tags": []
+  },
+  "mosque": {
+   "title": "Mosque",
+   "category": "prayer",
+   "tags": [
+    "masjid"
+   ]
+  },
+  "mushaf": {
+   "title": "Mushaf",
+   "category": "faith",
+   "tags": [
+    "quran",
+    "book"
+   ]
+  },
+  "music": {
+   "title": "Music",
+   "category": "media",
+   "tags": []
+  },
+  "names": {
+   "title": "The Names of Allah",
+   "category": "faith",
+   "tags": [
+    "asma",
+    "ul",
+    "husna",
+    "99",
+    "allah"
+   ]
+  },
+  "neutral": {
+   "title": "Neutral",
+   "category": "people",
+   "tags": []
+  },
+  "next": {
+   "title": "Next",
+   "category": "media",
+   "tags": []
+  },
+  "nodes": {
+   "title": "Nodes",
+   "category": "people",
+   "tags": []
+  },
+  "note": {
+   "title": "Note",
+   "category": "text",
+   "tags": []
+  },
+  "octagram": {
+   "title": "Eight-point star",
+   "category": "faith",
+   "tags": []
+  },
+  "palette": {
+   "title": "Palette",
+   "category": "money",
+   "tags": []
+  },
+  "pause": {
+   "title": "Pause",
+   "category": "media",
+   "tags": []
+  },
+  "pause_circle": {
+   "title": "Pause circle",
+   "category": "media",
+   "tags": []
+  },
+  "people": {
+   "title": "People",
+   "category": "people",
+   "tags": []
+  },
+  "person": {
+   "title": "Person",
+   "category": "people",
+   "tags": []
+  },
+  "phone": {
+   "title": "Phone",
+   "category": "devices",
+   "tags": []
+  },
+  "play": {
+   "title": "Play",
+   "category": "media",
+   "tags": []
+  },
+  "play_circle": {
+   "title": "Play circle",
+   "category": "media",
+   "tags": []
+  },
+  "playlist": {
+   "title": "Playlist",
+   "category": "media",
+   "tags": []
+  },
+  "plus": {
+   "title": "Plus",
+   "category": "actions",
+   "tags": []
+  },
+  "plus_circle": {
+   "title": "Plus circle",
+   "category": "status",
+   "tags": []
+  },
+  "power": {
+   "title": "Power",
+   "category": "actions",
+   "tags": []
+  },
+  "prayer_mat": {
+   "title": "Prayer mat",
+   "category": "prayer",
+   "tags": [
+    "sajjada",
+    "rug"
+   ]
+  },
+  "prayer_times": {
+   "title": "Prayer times",
+   "category": "prayer",
+   "tags": [
+    "salah",
+    "namaz",
+    "waqt"
+   ]
+  },
+  "previous": {
+   "title": "Previous",
+   "category": "media",
+   "tags": []
+  },
+  "privacy": {
+   "title": "Privacy",
+   "category": "status",
+   "tags": []
+  },
+  "qibla": {
+   "title": "Qibla",
+   "category": "prayer",
+   "tags": [
+    "kaaba",
+    "direction",
+    "compass"
+   ]
+  },
+  "qr": {
+   "title": "Qr",
+   "category": "devices",
+   "tags": []
+  },
+  "quote": {
+   "title": "Quote",
+   "category": "text",
+   "tags": []
+  },
+  "quran": {
+   "title": "Qur'an on its stand",
+   "category": "faith",
+   "tags": [
+    "mushaf",
+    "rehal",
+    "stand",
+    "read"
+   ]
+  },
+  "radio_on": {
+   "title": "Radio on",
+   "category": "status",
+   "tags": []
+  },
+  "reciter": {
+   "title": "Recitation",
+   "category": "faith",
+   "tags": [
+    "qari",
+    "recitation",
+    "audio"
+   ]
+  },
+  "redo": {
+   "title": "Redo",
+   "category": "actions",
+   "tags": []
+  },
+  "refresh": {
+   "title": "Refresh",
+   "category": "actions",
+   "tags": []
+  },
+  "repeat": {
+   "title": "Repeat",
+   "category": "actions",
+   "tags": []
+  },
+  "reset": {
+   "title": "Reset",
+   "category": "actions",
+   "tags": []
+  },
+  "roots": {
+   "title": "Word roots",
+   "category": "faith",
+   "tags": [
+    "arabic",
+    "words",
+    "vocabulary"
+   ]
+  },
+  "rose": {
+   "title": "Compass rose (discover)",
+   "category": "navigation",
+   "tags": []
+  },
+  "route": {
+   "title": "Route (seerah)",
+   "category": "faith",
+   "tags": [
+    "seerah",
+    "hijrah",
+    "journey"
+   ]
+  },
+  "sad": {
+   "title": "Sad",
+   "category": "people",
+   "tags": []
+  },
+  "salah_first": {
+   "title": "Salah First",
+   "category": "devices",
+   "tags": [
+    "focus",
+    "lock",
+    "phone"
+   ]
+  },
+  "scale": {
+   "title": "Scale",
+   "category": "money",
+   "tags": []
+  },
+  "school": {
+   "title": "School",
+   "category": "money",
+   "tags": []
+  },
+  "scroll": {
+   "title": "Scroll (hadith)",
+   "category": "faith",
+   "tags": [
+    "hadith",
+    "text"
+   ]
+  },
+  "search": {
+   "title": "Search",
+   "category": "navigation",
+   "tags": []
+  },
+  "search_off": {
+   "title": "Search off",
+   "category": "navigation",
+   "tags": []
+  },
+  "settings": {
+   "title": "Settings",
+   "category": "actions",
+   "tags": []
+  },
+  "share": {
+   "title": "Share",
+   "category": "actions",
+   "tags": []
+  },
+  "shield": {
+   "title": "Shield",
+   "category": "status",
+   "tags": []
+  },
+  "shuffle": {
+   "title": "Shuffle",
+   "category": "actions",
+   "tags": []
+  },
+  "sleep": {
+   "title": "Sleep",
+   "category": "calendar",
+   "tags": []
+  },
+  "smile": {
+   "title": "Smile",
+   "category": "people",
+   "tags": []
+  },
+  "speed": {
+   "title": "Speed",
+   "category": "media",
+   "tags": []
+  },
+  "square": {
+   "title": "Square",
+   "category": "status",
+   "tags": []
+  },
+  "star": {
+   "title": "Star",
+   "category": "actions",
+   "tags": []
+  },
+  "star8_filled": {
+   "title": "Eight-point star, filled",
+   "category": "faith",
+   "tags": []
+  },
+  "star_filled": {
+   "title": "Star, filled",
+   "category": "actions",
+   "tags": []
+  },
+  "stop": {
+   "title": "Stop",
+   "category": "media",
+   "tags": []
+  },
+  "sun": {
+   "title": "Sun",
+   "category": "calendar",
+   "tags": []
+  },
+  "sun_moon": {
+   "title": "Morning and evening",
+   "category": "faith",
+   "tags": [
+    "adhkar",
+    "morning",
+    "evening"
+   ]
+  },
+  "sunrise": {
+   "title": "Sunrise",
+   "category": "prayer",
+   "tags": [
+    "shuruq",
+    "morning"
+   ]
+  },
+  "swap": {
+   "title": "Swap",
+   "category": "actions",
+   "tags": []
+  },
+  "tag": {
+   "title": "Tag",
+   "category": "actions",
+   "tags": []
+  },
+  "target": {
+   "title": "Target",
+   "category": "money",
+   "tags": []
+  },
+  "text": {
+   "title": "Text",
+   "category": "text",
+   "tags": []
+  },
+  "timer": {
+   "title": "Timer",
+   "category": "calendar",
+   "tags": []
+  },
+  "touch": {
+   "title": "Touch",
+   "category": "people",
+   "tags": []
+  },
+  "translate": {
+   "title": "Translate",
+   "category": "text",
+   "tags": []
+  },
+  "trash": {
+   "title": "Trash",
+   "category": "actions",
+   "tags": []
+  },
+  "trend_down": {
+   "title": "Trend down",
+   "category": "money",
+   "tags": []
+  },
+  "trend_up": {
+   "title": "Trend up",
+   "category": "money",
+   "tags": []
+  },
+  "trophy": {
+   "title": "Trophy",
+   "category": "money",
+   "tags": []
+  },
+  "tune": {
+   "title": "Tune",
+   "category": "navigation",
+   "tags": []
+  },
+  "underline": {
+   "title": "Underline",
+   "category": "text",
+   "tags": []
+  },
+  "undo": {
+   "title": "Undo",
+   "category": "actions",
+   "tags": []
+  },
+  "up": {
+   "title": "Up",
+   "category": "navigation",
+   "tags": []
+  },
+  "update": {
+   "title": "Update",
+   "category": "actions",
+   "tags": []
+  },
+  "upload": {
+   "title": "Upload",
+   "category": "actions",
+   "tags": []
+  },
+  "verified": {
+   "title": "Verified",
+   "category": "faith",
+   "tags": []
+  },
+  "video": {
+   "title": "Video",
+   "category": "media",
+   "tags": []
+  },
+  "video_off": {
+   "title": "Video off",
+   "category": "media",
+   "tags": []
+  },
+  "volume": {
+   "title": "Volume",
+   "category": "media",
+   "tags": []
+  },
+  "volume_off": {
+   "title": "Volume off",
+   "category": "media",
+   "tags": []
+  },
+  "walk": {
+   "title": "Walk",
+   "category": "people",
+   "tags": []
+  },
+  "wallet": {
+   "title": "Wallet",
+   "category": "money",
+   "tags": []
+  },
+  "waveform": {
+   "title": "Waveform",
+   "category": "media",
+   "tags": []
+  },
+  "wifi": {
+   "title": "Wifi",
+   "category": "devices",
+   "tags": []
+  },
+  "wifi_off": {
+   "title": "Wifi off",
+   "category": "devices",
+   "tags": []
+  }
+ }
+}
