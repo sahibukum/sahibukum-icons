@@ -1,6 +1,6 @@
-# Sahibukum Icons
+# Sahibukum Icons: free Islamic icons (SVG, web font, Flutter)
 
-One drawn icon set for Muslim apps: the prayer day from Fajr to Isha, the Qur'an, dua and dhikr, the Hijri
+A free Islamic icon set of 218 icons for Muslim apps and websites: the prayer day from Fajr to Isha, the Qur'an, dua and dhikr, the Hijri
 month, zakat and the masjid, and the everyday interface icons around them, all drawn in one hand. Sahibukum
 uses it in its app, on its website and on The Daily Reminder; anyone may use it under
 [CC BY 4.0](#licence).
@@ -13,8 +13,8 @@ Browse, search and download: **https://sahibukum.com/developers/icons**
 
 The icons (`icons/` and everything in `dist/` built from them) are licensed under the
 [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/)
-(`LICENSE-ICONS.txt`). You may use them in any project, free or paid, and change them, as long as you
-give credit. The build scripts in `tools/` are MIT (`LICENSE`).
+(`LICENSE`). You may use them in any project, free or paid, and change them, as long as you
+give credit. The build scripts in `tools/` are MIT (`tools/LICENSE`).
 
 **How to credit.** Put this line where you credit other work (an About screen, a site footer, a README):
 
@@ -69,6 +69,7 @@ look at `dist/contact-sheet.png` at 24 px before committing:
 ```sh
 python3 -m venv .venv && .venv/bin/pip install -r tools/requirements.txt
 .venv/bin/python tools/build.py
+.venv/bin/python tools/og.py   # the share images, dist/og.png and dist/social.png
 ```
 
 `codepoints.json` only grows: a name keeps its codepoint, so fonts stay compatible between versions.
