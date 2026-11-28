@@ -169,7 +169,17 @@ def main():
     fb.setupGlyphOrder(order)
     fb.setupCharacterMap({cps[n]: n for n in names})
     fb.setupGlyf(glyphs)
-    fb.setupHorizontalMetrics({g: (UPM, 0) for g in order})
+    # The left side bearing must equal each glyph's xMin. With 0, renderers
+    # (CoreText, FreeType, HarfBuzz) move the outline so its left edge sits
+    # at x=0, which put every icon about 13% of its size left of centre in
+    # the app's buttons (owner, 29 Nov 2026).
+    glyf = fb.font["glyf"]
+    lsb = {}
+    for g in order:
+        glyph = glyf[g]
+        glyph.recalcBounds(glyf)
+        lsb[g] = glyph.xMin if glyph.numberOfContours else 0
+    fb.setupHorizontalMetrics({g: (UPM, lsb[g]) for g in order})
     fb.setupHorizontalHeader(ascent=UPM, descent=0)
     fb.setupNameTable({"familyName": FAMILY, "styleName": "Regular",
                        "copyright": "Sahibukum Icons (c) 2026 Sahibukum Pte. Ltd. CC BY 4.0"})
